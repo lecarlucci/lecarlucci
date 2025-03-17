@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Luis Carlucci, I studied engeniering and now I was trained in frontend developer. I worked in another sector for many time but now I want to dedicate to develope app and collaborate in big projects full time.<br><br>- 📚 I'm currently learning C++ and backend<br>- ⚡ In my free time I write stories for my novel and recently started learning 3D sculpt</p>
+<p align="left">I'm Luis Carlucci, I studied engeniering and now I was trained in frontend developer. I worked in another sector for many time but now I dedicate to develope app and collaborate in projects full time.<br><br>- 📚 I'm currently learning C++ and backend<br>- ⚡ In my free time I write stories for my novel and recently started learning 3D sculpt</p>
 
 ###
 
